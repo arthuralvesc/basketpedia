@@ -1,0 +1,7 @@
+<div class="team-row-wrapper" (click)="goToTeamDetail($event)">
+    <app-nba-logo-dynamic-wrapper [teamAbbreviation]="team.abbreviation"></app-nba-logo-dynamic-wrapper>
+    <div class="name">
+        <div class="name-city">{{ team.name.city }}</div>
+        <div class="name-name">{{ team.name.name }}</div>
+    </div>
+</div>   

@@ -1,0 +1,8 @@
+<div class="main">
+    <div class="team-container">
+        <app-team-row 
+            *ngFor="let team of teams$ | async" 
+            [team]="team">
+        </app-team-row>
+    </div>
+</div>

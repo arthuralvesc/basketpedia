@@ -1,0 +1,268 @@
+[{
+    "id": 0,
+    "abbreviation": "ATL",
+    "name": {
+        "city": "Atlanta",
+        "name": "Hawks"
+    },
+    "conference": "East"
+},
+{
+    "id": 1,
+    "abbreviation": "BOS",
+    "name": {
+        "city": "Boston",
+        "name": "Celtics"
+    },
+    "conference": "East"
+},
+{
+    "id": 2,
+    "abbreviation": "BKN",
+    "name": {
+        "city": "Brooklyn",
+        "name": "Nets"
+    },
+    "conference": "East"
+},
+{
+    "id": 3,
+    "abbreviation": "CHA",
+    "name": {
+        "city": "Charlotte",
+        "name": "Hornets"
+    },
+    "conference": "East"
+},
+{
+    "id": 4,
+    "abbreviation": "CHI",
+    "name": {
+        "city": "Chicago",
+        "name": "Bulls"
+    },
+    "conference": "East"
+},
+{
+    "id": 5,
+    "abbreviation": "CLE",
+    "name": {
+        "city": "Cleveland",
+        "name": "Cavaliers"
+    },
+    "conference": "East"
+},
+{
+    "id": 6,
+    "abbreviation": "DAL",
+    "name": {
+        "city": "Dallas",
+        "name": "Mavericks"
+    },
+    "conference": "West"
+},
+{
+    "id": 7,
+    "abbreviation": "DEN",
+    "name": {
+        "city": "Denver",
+        "name": "Nuggets"
+    },
+    "conference": "West"
+},
+{
+    "id": 8,
+    "abbreviation": "DET",
+    "name": {
+        "city": "Detroit",
+        "name": "Pistons"
+    },
+    "conference": "East"
+},
+{
+    "id": 9,
+    "abbreviation": "GSW",
+    "name": {
+        "city": "Golden State",
+        "name": "Warriors"
+    },
+    "conference": "West"
+},
+{
+    "id": 10,
+    "abbreviation": "HOU",
+    "name": {
+        "city": "Houston",
+        "name": "Rockets"
+    },
+    "conference": "West"
+},
+{
+    "id": 11,
+    "abbreviation": "IND",
+    "name": {
+        "city": "Indiana",
+        "name": "Pacers"
+    },
+    "conference": "East"
+},
+{
+    "id": 12,
+    "abbreviation": "LAC",
+    "name": {
+        "city": "Los Angeles",
+        "name": "Clippers"
+    },
+    "conference": "West"
+},
+{
+    "id": 13,
+    "abbreviation": "LAL",
+    "name": {
+        "city": "Los Angeles",
+        "name": "Lakers"
+    },
+    "conference": "West"
+},
+{
+    "id": 14,
+    "abbreviation": "MEM",
+    "name": {
+        "city": "Memphis",
+        "name": "Grizzlies"
+    },
+    "conference": "West"
+},
+{
+    "id": 15,
+    "abbreviation": "MIA",
+    "name": {
+        "city": "Miami",
+        "name": "Heat"
+    },
+    "conference": "East"
+},
+{
+    "id": 16,
+    "abbreviation": "MIL",
+    "name": {
+        "city": "Milwaukee",
+        "name": "Bucks"
+    },
+    "conference": "East"
+},
+{
+    "id": 17,
+    "abbreviation": "MIN",
+    "name": {
+        "city": "Minnesota",
+        "name": "Timberwolves"
+    },
+    "conference": "West"
+},
+{
+    "id": 18,
+    "abbreviation": "NOP",
+    "name": {
+        "city": "New Orleans",
+        "name": "Pelicans"
+    },
+    "conference": "West"
+},
+{
+    "id": 19,
+    "abbreviation": "NYK",
+    "name": {
+        "city": "New York",
+        "name": "Knicks"
+    },
+    "conference": "East"
+},
+{
+    "id": 20,
+    "abbreviation": "OKC",
+    "name": {
+        "city": "Oklahoma City",
+        "name": "Thunder"
+    },
+    "conference": "West"
+},
+{
+    "id": 21,
+    "abbreviation": "ORL",
+    "name": {
+        "city": "Orlando",
+        "name": "Magic"
+    },
+    "conference": "East"
+},{
+    "id": 22,
+    "abbreviation": "PHI",
+    "name": {
+        "city": "Philadelphia",
+        "name": "76ers"
+    },
+    "conference": "East"
+},{
+    "id": 23,
+    "abbreviation": "PHX",
+    "name": {
+        "city": "Phoenix",
+        "name": "Suns"
+    },
+    "conference": "West"
+},
+{
+    "id": 24,
+    "abbreviation": "POR",
+    "name": {
+        "city": "Portland",
+        "name": "Trail Blazers"
+    },
+    "conference": "West"
+},
+{
+    "id": 25,
+    "abbreviation": "SAC",
+    "name": {
+        "city": "Sacramento",
+        "name": "Kings"
+    },
+    "conference": "West"
+},
+{
+    "id": 26,
+    "abbreviation": "SAS",
+    "name": {
+        "city": "San Antonio",
+        "name": "Spurs"
+    },
+    "conference": "West"
+},
+{
+    "id": 27,
+    "abbreviation": "TOR",
+    "name": {
+        "city": "Toronto",
+        "name": "Raptors"
+    },
+    "conference": "East"
+},
+{
+    "id": 28,
+    "abbreviation": "UTA",
+    "name": {
+        "city": "Utah",
+        "name": "Jazz"
+    },
+    "conference": "West"
+},
+{
+    "id": 29,
+    "abbreviation": "WAS",
+    "name": {
+        "city": "Washington",
+        "name": "Wizards"
+    },
+    "conference": "East"
+}]

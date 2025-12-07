@@ -1,0 +1,24 @@
+.team-row-wrapper { 
+    padding: 0 1rem;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    .name {
+        padding: 1rem 0;
+        font-size: 1.5rem;
+        .name-name {
+            font-size: 2.5rem;
+        }
+    }
+    &:hover {
+        cursor: pointer;
+        .name {
+            font-size: 2.5rem;
+            transition: 0.3s ease;
+            .name-name {
+                font-size: 3.5rem;
+            }
+        }
+    }
+}
