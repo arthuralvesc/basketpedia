@@ -1,7 +1,26 @@
 <form class="login-form">
-    <label for="user">User</label>
-    <input type="text" id="user">
-    <label for="password">Password</label>
-    <input type="password" id="password">
-    <button type="button" class="submit" onclick="login()">Submit</button>
+    <ng-container *ngIf="(!isNewUser)">
+        <div class="input-wrapper">
+            <label for="user">User</label>
+            <input type="text" id="user" [(ngModel)]="userData.user" [ngModelOptions]="{standalone: true}" required>
+        </div>
+        <div class="input-wrapper">
+            <label for="password">Password</label>
+            <input type="password" id="password" [(ngModel)]="userData.password" [ngModelOptions]="{standalone: true}" required>
+        </div>
+        <button type="button" class="submit" (click)="login()">Login</button>
+        <p class="change-form" (click)="changeForm()">First time here? Register</p>
+    </ng-container>
+    <ng-container *ngIf="(isNewUser)">
+        <div class="input-wrapper">
+            <label for="user">User</label>
+            <input type="text" id="user" [(ngModel)]="userData.user" [ngModelOptions]="{standalone: true}" required>
+        </div>
+        <div class="input-wrapper">
+            <label for="password">Password</label>
+            <input type="password" id="password" [(ngModel)]="userData.password" [ngModelOptions]="{standalone: true}" required>
+        </div>
+        <button type="button" class="submit" (click)="register()">Register</button>
+        <p class="change-form" (click)="changeForm()">Not your first access? Log In</p>
+    </ng-container>
 </form>

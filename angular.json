@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "nba": {
+    "basketpedia": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -73,10 +73,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "nba:build:production"
+              "buildTarget": "basketpedia:build:production"
             },
             "development": {
-              "buildTarget": "nba:build:development"
+              "buildTarget": "basketpedia:build:development"
             }
           },
           "defaultConfiguration": "development"
